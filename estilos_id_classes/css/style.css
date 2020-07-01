@@ -1,0 +1,21 @@
+.div1 h1{
+	color: darkorchid;
+}
+
+.div2 h1{
+	color: yellowgreen;
+}
+
+/*
+
+Ou...
+
+*/
+
+#div1 h1{
+	color:darkorchid;
+}
+
+#div2 h1{
+	color: yellowgreen;
+}
